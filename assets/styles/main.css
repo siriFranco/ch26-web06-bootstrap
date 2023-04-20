@@ -10,3 +10,8 @@
     width: 800px;
     height: 400px;
 }
+
+.demo-content{
+    background-color: rgb(57, 57, 57);
+    color: antiquewhite;
+}
